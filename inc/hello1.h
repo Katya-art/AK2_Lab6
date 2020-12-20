@@ -6,7 +6,7 @@
 #include <linux/slab.h>
 
 MODULE_AUTHOR("Kateryna Kravchenko");
-MODULE_DESCRIPTION("AK2_Lab5 advanced");
+MODULE_DESCRIPTION("AK2_Lab6 advanced");
 MODULE_LICENSE("Dual BSD/GPL");
 
 extern void print_hello(uint n);
